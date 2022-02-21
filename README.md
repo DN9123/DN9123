@@ -1,5 +1,5 @@
 Hello, I am DN9123. I am a young, novice programmer semi-fluent in Python and JavaScript.
-I'm working on looking into how Python can be used to create basic artificial intelligence.
+I'm working on looking into how Python can be used in cybersecurity as well as furthering my knowledge on the language itself.
 I'm currently learning HTML and CSS, and hope to be making websites soon.
 
 <!---
